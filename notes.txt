@@ -1,0 +1,8 @@
+git bransh 
+git merge branch
+
+//rebase
+git rebase branch 
+
+if conflict solve and git add then git rebase --continue
+
