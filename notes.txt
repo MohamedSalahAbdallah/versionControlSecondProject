@@ -19,7 +19,16 @@ git stash (while in branch)
 
 git checkout branch-name
 
+● Tell me how to list tags.
 
+git tag
+
+● Tell me how to delete tag locally and remotely.
+
+
+git push origin :tag-name (remotely)
+
+git branch -d tag-name
 
 
 
