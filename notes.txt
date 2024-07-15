@@ -6,3 +6,22 @@ git rebase branch
 
 if conflict solve and git add then git rebase --continue
 
+● Tell me how to remove them locally and remotely.
+
+git push origin :branch-name (remotely)
+
+git branch -d branch-name
+
+● Tell me how to checkout another branch without commit
+changes 
+
+git stash (while in branch)
+
+git checkout branch-name
+
+
+
+
+
+
+
